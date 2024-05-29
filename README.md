@@ -5,7 +5,7 @@
 ## MR-CHAMA-MD 😽💐 - A Powerfull WhatsApp User Bot
 <br>
 
-                      🔰❤️`MULTIDEVICE-WHATSAPP-BOT`❤️🔰
+🔰❤️MULTIDEVICE-WHATSAPP-BOT❤️🔰
 
 <br>
  
