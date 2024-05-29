@@ -5,7 +5,7 @@
 ## MR-CHAMA-MD 😽💐 - A Powerfull WhatsApp User Bot
 <br>
 
-🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
+🔰❤️`MULTIDEVICE-WHATSAPP-BOT`❤️🔰
 
 <br>
  
