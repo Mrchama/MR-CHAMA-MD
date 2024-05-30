@@ -5,7 +5,7 @@
 ## MR-CHAMA-MD 😽💐 - A Powerfull WhatsApp User Bot
 <br>
 
-                        🔰❤️𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓❤️🔰
+                       🔰❤️𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓❤️🔰
 
 <br>
  
@@ -18,4 +18,4 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MR+CHAMA+MD+WHATSAPP+BOT" alt="">
 </p>
 
-<h1 align="center">𝗠𝗥-𝗖𝗛𝗔𝗠𝗔-𝗠𝗗</h1>
+<h1 align="center">𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙴𝙰𝙼 𝙱𝙻𝙰𝙲𝙺 𝙻𝙸𝙾𝙽👨‍💻❤️</h1>
