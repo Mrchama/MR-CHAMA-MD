@@ -17,3 +17,5 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MR+CHAMA+MD+WHATSAPP+BOT" alt="">
 </p>
+
+<h1 align="center">𝗠𝗥-𝗖𝗛𝗔𝗠𝗔-𝗠𝗗</h1>
