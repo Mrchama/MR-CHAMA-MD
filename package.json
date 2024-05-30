@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
-  "version": "3.9.7",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module.",
+  "name": "MR-CHAMA-MD",
+  "version": "1.0.0",
+  "description": "Mr Chama Md  Whatsapp bot is  3rd Party Module.",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -9,13 +9,13 @@
   "keywords": [
     "termux-bot",
     "whatsapp",
-    "2023",
+    "2024",
     "baileys-md",
     "bot-md",
     "multi-device",
-    "dark-maker-ofc"
+    "Black-Lion-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-CHAMA",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@6.7.2",
@@ -89,10 +89,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/QUEEN-ELISA-MD.git",
+  "repository": "git+https://github.com/Mrchama/MR-CHAMA-MD.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues"
+    "url": "https://github.com/Mrchama/MR-CHAMA-MD/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/#readme",
+  "homepage": "https://github.com/Mrchama/MR-CHAMA-MD/#readme",
   "main": "index.js"
 }
