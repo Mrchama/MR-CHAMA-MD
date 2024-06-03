@@ -1,4 +1,4 @@
-# MR-CHAMA-MD 1.0.0v (Multi-Device Wa User Bot)👨‍💻❤️
+# MR-CHAMA-MD 1.0.0v (MULTI-DEVICE WA USER BOT) 👨‍💻❤️
 
 You can join Beta Testing WhatsApp Group by invite link :
 <a href="https">Beta Testing Whatsapp Group</a>
