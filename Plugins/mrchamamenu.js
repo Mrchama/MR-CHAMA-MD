@@ -14,7 +14,7 @@
 * @version 1.0.0
 * @file  _amdi_menu.js - MrChamaMd bot main menu
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2024 Mr Chamalka , ANTECH. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
