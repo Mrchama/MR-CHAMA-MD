@@ -1,15 +1,15 @@
 {
-"name": "PRABATH-MD",
-"version": "2.1.1",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"name": "MR-CHAMA-MD",
+"version": "1.0.0",
+"description": "MR-CHAMA-MD is a simply whatsapp user bot.👨‍💻💜",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
-"restart": "pm2 restart prabath-md"
+"start": "pm2 start start.js --deep-monitoring --attach --name mr-chama-md",
+"stop": "pm2 stop mr-chama-md",
+"restart": "pm2 restart mr-chama-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
+"@whiskeysockets/baileys": "git+https://github.com/Mrchama/Baileys-6.7.4git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "gemini-ai" : "latest",
