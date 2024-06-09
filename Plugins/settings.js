@@ -1,23 +1,23 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
+* @project_name Mr Chama Md [WA Multi-device]
+* @author MrChamalka <https://github.com/Mrchama>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
-* @version 4.0.8
-* @file  settings.js - QueenAmdi bot settings
+* @link <https://github.com/Mrchama/MR-CHAMA-MD>
+* @version 1.0.0
+* @file  settings.js - MrChamaMd bot settings
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2024 Mr Chamalka , ANTECH. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
-const { AMDI, amdiDB, _default_list_sections, Language } = require('queen_amdi_core/dist/scripts')
+const { CHAMAMD, chamamdDB, _default_list_sections, Language } = require('mr_chama_md_core/dist/scripts')
 const { settingList, applyList } = _default_list_sections
-const { inputSettings } = amdiDB.settingsDB
+const { inputSettings } = chamamdDB.settingsDB
 const Lang = Language.getString('settings');
 
 
-AMDI({ cmd: "apply", desc: Lang.setDesc, type: "profile", react: "👩🏻‍🎨" }, (async (amdiWA) => {
-    let { prefix, isReply, reply, replied_text, sendListMsg  } = amdiWA.msgLayout;
+CHAMAMD({ cmd: "apply", desc: Lang.setDesc, type: "profile", react: "👨‍🔧" }, (async (chamamdWA) => {
+    let { prefix, isReply, reply, replied_text, sendListMsg  } = chamamdWA.msgLayout;
 
     if (!isReply) return reply(Lang.needReplymsg)
 
@@ -31,8 +31,8 @@ AMDI({ cmd: "apply", desc: Lang.setDesc, type: "profile", react: "👩🏻‍�
 }));
 
 
-AMDI({ cmd: "settings", desc: Lang.setDesc, type: "profile", react: "⚙️" }, (async (amdiWA) => {
-    let { prefix, sendListMsg } = amdiWA.msgLayout;
+CHAMAMD({ cmd: "settings", desc: Lang.setDesc, type: "profile", react: "⚙️" }, (async (chamamdWA) => {
+    let { prefix, sendListMsg } = chamamdWA.msgLayout;
 
     var listInfo = {}
     listInfo.title = Lang.setListTitle
@@ -44,8 +44,8 @@ AMDI({ cmd: "settings", desc: Lang.setDesc, type: "profile", react: "⚙️" }, 
 }));
 
 
-AMDI({ cmd: "button", desc: Lang.BTN_TOGGLE_DESC, type: "profile", react: "🔘" }, (async (amdiWA) => {
-    let { input, reply } = amdiWA.msgLayout;
+CHAMAMD({ cmd: "button", desc: Lang.BTN_TOGGLE_DESC, type: "profile", react: "☢️" }, (async (chamamdWA) => {
+    let { input, reply } = chamamdWA.msgLayout;
 
     if (!input) return await reply('*Button On or off ?*', "❓");
 
