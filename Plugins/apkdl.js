@@ -4,7 +4,7 @@
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/Mrchama/MR-CHAMA-MD>
 * @version 1.0.0
-* @file  _anti_functions.js - MrChamaMd APK Downloaders
+* @file  apkdl.js - MrChamaMd APK Downloaders
 
 © 2024 Mr Chamalka , ANTECH. All rights reserved.
 Licensed under the  GPL-3.0 License;
