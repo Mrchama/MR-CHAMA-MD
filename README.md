@@ -15,7 +15,7 @@
 
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=#00FFFF&center=true&vCenter=true&multiline=false&lines=MR+CHAMA+MD+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MR+CHAMA+MD+WHATSAPP+BOT" alt="">
 </p>
 
 <h1 align="center">𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙴𝙰𝙼 𝙱𝙻𝙰𝙲𝙺 𝙻𝙸𝙾𝙽👨‍💻❤️</h1>
