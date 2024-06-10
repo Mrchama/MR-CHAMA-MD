@@ -17,5 +17,6 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MR+CHAMA+MD+WHATSAPP+BOT" alt="">
 </p>
-
-<h1 align="center">𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙴𝙰𝙼 𝙱𝙻𝙰𝙲𝙺 𝙻𝙸𝙾𝙽👨‍💻❤️</h1>
+    
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗠𝗥+𝗖𝗛𝗔𝗠𝗔+𝗠𝗗;WHATSAPP+USER+BOT;CREATED+BY+TEAM+BLACK+LION" alt="Typing SVG" /></a>
