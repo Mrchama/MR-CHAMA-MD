@@ -34,8 +34,10 @@ await conn.sendmessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:m
 let down = await fg.yta(url)
 let downloadUrl = down.dl_url
 
-// send audio message
+// send audio + 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 message
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",FileName:data,title + ".mp3",caption:"*•𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰🎭*"},{quoted:mek})
+
 {catch(e){
 console.log(e)
 reply(`${e}`)
@@ -72,11 +74,12 @@ await conn.sendmessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:m
 // download video
 
 
-let down = await fg.yta(url)
+let down = await fg.ytv(url)
 let downloadUrl = down.dl_url
 
-// send video message
-await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"video/mpeg"},{quoted:mek})
+// send video + document message
+await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",FileName:data,title + ".mp4",cpation:"*•𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰🎭*"},{quoted:mek})
 {catch(e){
 console.log(e)
 reply(`${e}`)
