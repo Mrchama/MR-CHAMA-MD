@@ -25,7 +25,7 @@ time: ${data.timestamp}
 ago: ${data.ago}
 viwes: ${data.viwes}
 
-*𝙼𝙰𝙳𝙴 𝙱𝚈 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰*🎭
+*•𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰*🎭
 '
 await conn.sendmessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 // download audio
