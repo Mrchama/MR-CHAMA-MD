@@ -165,8 +165,11 @@ mek.type === "stickerMessage"
 ) {
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
-//============================================================================ 
-
+//=====================Work-Type======================================================= 
+if(!isOwner && config.MOOD === "private") return
+if(!isOwner && isGroup && config.MOOD === "inbox") return
+if(!isOwner && !isGroup && config.MOOD === "groups") return
+//============================================================================
 })
 }
 app.get("/", (req, res) => {
